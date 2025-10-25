@@ -1,0 +1,5 @@
+{
+  "name": "Examen Bimestral",
+  "description": "Una aplicación de cuestionario interactivo para evaluar conocimientos médicos. Incluye un temporizador, puntuación final y modos de prueba y administrador.",
+  "requestFramePermissions": []
+}
